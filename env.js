@@ -6,6 +6,7 @@ const env = {
   intialSupply: web3.utils.toBN(10e18),
   maxSuply: web3.utils.toBN(100e18),
   transactionFee: 10,
+  etherScanApiKey: "MyEtherScanApiKey",
 };
 
 module.exports = env;
