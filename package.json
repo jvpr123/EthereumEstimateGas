@@ -1,0 +1,15 @@
+{
+  "name": "ethereum_estimate_gas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.7.2",
+    "axios": "^0.27.2",
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
+    "chai-bn": "^0.3.1",
+    "mocha-logger": "^1.0.8",
+    "web3": "^1.7.5"
+  }
+}
